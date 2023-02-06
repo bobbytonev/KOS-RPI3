@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyAudio.qml</file>
+        <file>Player.qml</file>
+        <file>Usb.qml</file>
+        <file>PlayerControlPopup.qml</file>
+        <file>CustomPlaylist.qml</file>
+        <file>PlayerPopupContent.qml</file>
+        <file>Bluetooth.qml</file>
+        <file>BtPlayer.qml</file>
+    </qresource>
+</RCC>
