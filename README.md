@@ -11,6 +11,15 @@
 
 Minimal and lightweight os based on Linux Buildroot for raspberry pi 3 written entirely with Qt/QML
 
+<p align="center" width="100%">
+    <img width="44%" src="homescreen0.png">
+</p>
+<p align="center" width="100%">
+    <img width="44%" src="appdrawer.png">
+</p>
+<p align="center" width="100%">
+    <img width="44%" src="homescreen.png">
+</p>
 ## Features
 
 - Notifications
