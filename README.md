@@ -42,19 +42,22 @@ iso file is available [here]().
 - FM-radio(currently in alpha)
 - BMW IBUS app 
 - Boot animation
+- Display brightness.
 
-## Credist
+## Whats not working
+
+## Credits
 
 - [Candy-icons](https://github.com/EliverLara/candy-icons)
 - [BeautyLine](https://github.com/gvolpe/BeautyLine)
 - [Connman](https://github.com/ev3dev/connman)
 - [GSteamer](https://github.com/GStreamer/gstreamer)
 
-## License
 
-MIT
 
-**Free Software, Hell Yeah!**
+
+
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
