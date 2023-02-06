@@ -44,7 +44,6 @@ iso file is available [here]().
 - Boot animation
 - Display brightness.
 
-## Whats not working
 
 ## Credits
 
