@@ -44,10 +44,10 @@ iso file is available [here]().
 
 ## Credist
 
-[Candy-icons](https://github.com/EliverLara/candy-icons)
-[BeautyLine](https://github.com/gvolpe/BeautyLine)
-[Connman](https://github.com/ev3dev/connman)
-[GSteamer](https://github.com/GStreamer/gstreamer)
+- [Candy-icons](https://github.com/EliverLara/candy-icons)
+- [BeautyLine](https://github.com/gvolpe/BeautyLine)
+- [Connman](https://github.com/ev3dev/connman)
+- [GSteamer](https://github.com/GStreamer/gstreamer)
 
 ## License
 
