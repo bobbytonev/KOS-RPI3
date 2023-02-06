@@ -16,13 +16,13 @@ Minimal and lightweight os based on Linux Buildroot for raspberry pi 3 written e
 - Notifications
 - Interactive tray icons
 - Fully customizable themes - currently there is only one
--> Real-time theme configuration
+   * Real-time theme configuration
 - Hardware acceleration
 - Fast and responsive UI
 - Vast variety of video/audio codecs - thanks to GStreamer
 - Bluetooth audio - Bluez
 - Wifi connection - Connman
-
+- Quick boot time ~ 18 seconds
 
 ## Build
 At the moment there is no package for Buildroot. You need to build all programs.
@@ -41,7 +41,7 @@ iso file is available [here]().
 - Audio cards switch
 - FM-radio(currently in alpha)
 - BMW IBUS app 
--Boot animation
+- Boot animation
 
 ## Credist
 
