@@ -14,12 +14,15 @@ Minimal and lightweight os based on Linux Buildroot for raspberry pi 3 written e
 <p align="center" width="100%">
     <img width="100%" src="homescreen0.png">
 </p>
+
 <p align="center" width="100%">
     <img width="100%" src="appdrawer.png">
 </p>
+
 <p align="center" width="100%">
     <img width="100%" src="homescreen.png">
 </p>
+
 ## Features
 
 - Notifications
