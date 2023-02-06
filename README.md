@@ -5,7 +5,7 @@
 # KOS
 
 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 
@@ -28,6 +28,7 @@ Minimal and lightweight os based on Linux Buildroot for raspberry pi 3 written e
 At the moment there is no package for Buildroot. You need to build all programs.
 
 - NOTE
+
 StyleManager, UsbUtils, FileCache and KEnvironment need to be run as root
 FileCache needs to know where HOME folder is (HOME=/path/to/home FileCache)
 XDG_RUNTIME_DIR needs to be set or KEnvironment will fail.
@@ -42,6 +43,7 @@ iso file is available [here]().
 - BMW IBUS app 
 
 ## Credist
+
 [Candy-icons](https://github.com/EliverLara/candy-icons)
 [BeautyLine](https://github.com/gvolpe/BeautyLine)
 [Connman](https://github.com/ev3dev/connman)
