@@ -43,7 +43,7 @@ Minimal and lightweight os based on Linux Buildroot for raspberry pi 3 written e
 - Cooling fan if you want to overclock
 
 ## Build
-At the moment there is no package for Buildroot. You need to build all programs.
+At the moment there is no package for Buildroot.
 
 - NOTE
 
