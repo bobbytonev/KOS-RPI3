@@ -1,0 +1,1 @@
+root=/dev/mmcblk0p2 rootwait console=tty1 console=serial0,115200 video=HDMI-A-1:1024:600@60ev  quiet splash loglevel=0 logo.nologo vt.global_cursor_default=0
