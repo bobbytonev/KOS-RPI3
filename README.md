@@ -36,6 +36,12 @@ Minimal and lightweight os based on Linux Buildroot for raspberry pi 3 written e
 - Wifi connection - Connman
 - Quick boot time ~ 18 seconds
 
+## Requirements
+- Raspberry pi 3 64bit
+- Touch screen display 
+- 3.5 mm audio jack (audio does not work with hdmi)
+- Cooling fan if you want to overclock
+
 ## Build
 At the moment there is no package for Buildroot. You need to build all programs.
 
