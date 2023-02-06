@@ -41,6 +41,7 @@ iso file is available [here]().
 - Audio cards switch
 - FM-radio(currently in alpha)
 - BMW IBUS app 
+-Boot animation
 
 ## Credist
 
