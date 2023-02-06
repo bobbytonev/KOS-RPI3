@@ -29,8 +29,8 @@ At the moment there is no package for Buildroot. You need to build all programs.
 
 - NOTE
 
-StyleManager, UsbUtils, FileCache and KEnvironment need to be run as root
-FileCache needs to know where HOME folder is (HOME=/path/to/home FileCache)
+StyleManager, UsbUtils, FileCache and KEnvironment need to be run as root.\
+FileCache needs to know where HOME folder is (HOME=/path/to/home FileCache).\
 XDG_RUNTIME_DIR needs to be set or KEnvironment will fail.
 
 ## Download
