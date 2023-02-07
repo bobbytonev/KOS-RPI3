@@ -57,7 +57,7 @@ XDG_RUNTIME_DIR needs to be set or KEnvironment will fail.
 - FM-radio(currently in alpha)
 - BMW IBUS app 
 - Boot animation
-- Display brightness.
+- Brightness control.
 
 
 ## Credits
