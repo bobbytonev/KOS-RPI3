@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="70%"  src="KLogo.gif">
+    <img width="70%"  src="KLogo.png">
 </p>
 
 # KOS
