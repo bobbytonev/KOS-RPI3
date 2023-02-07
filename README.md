@@ -51,9 +51,6 @@ StyleManager, UsbUtils, FileCache and KEnvironment need to be run as root.\
 FileCache needs to know where HOME folder is (HOME=/path/to/home FileCache).\
 XDG_RUNTIME_DIR needs to be set or KEnvironment will fail.
 
-## Download
-iso file is available [here]().
-
 ## Future updates
 
 - Audio cards switch
