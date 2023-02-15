@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Launcher.qml</file>
+        <file>Header.qml</file>
+        <file>NotificationArea.qml</file>
+        <file>Time.qml</file>
+        <file>TrayIconsArea.qml</file>
+        <file>DropDownMenu.qml</file>
+        <file>Notification.qml</file>
+        <file>NotificationPopup.qml</file>
+        <file>Widgets.qml</file>
+        <file>AppDrawer.qml</file>
+        <file>Shortcuts-Content.qml</file>
+        <file>Shortcuts.qml</file>
+        <file>BackgroundChooser.qml</file>
+        <file>LauncherSettings.qml</file>
+        <file>SettingsButton.qml</file>
+        <file>VolumeSlider.qml</file>
+        <file>BrightnessSlider.qml</file>
+        <file>TrayDropDown.qml</file>
+        <file>LoadingScreen.qml</file>
+        <file>PowerButtons.qml</file>
+        <file>kdefaultbg.jpg</file>
+    </qresource>
+</RCC>
