@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main-page.qml</file>
+        <file>Appearance-page.qml</file>
+        <file>Audio-page.qml</file>
+        <file>System-page.qml</file>
+        <file>About-page.qml</file>
+        <file>TimeZone-page.qml</file>
+        <file>TimeZoneContent.qml</file>
+        <file>Wi-Fi-page.qml</file>
+        <file>Style-page.qml</file>
+        <file>DateClock-page.qml</file>
+        <file>ClockDialog.qml</file>
+        <file>DateDialog.qml</file>
+        <file>Languages-page.qml</file>
+        <file>LanguageContent.qml</file>
+        <file>Apps-page.qml</file>
+        <file>DefaultApps.qml</file>
+        <file>Mimetypes.qml</file>
+        <file>AllApps.qml</file>
+        <file>AppInfo-page.qml</file>
+        <file>AppInfoContent.qml</file>
+        <file>StyleConfig.qml</file>
+        <file>LabelMenuSeparator.qml</file>
+        <file>Bluetooth-page.qml</file>
+        <file>BluetoothList.qml</file>
+        <file>BtDevice.qml</file>
+        <file>TextInputDialog.qml</file>
+        <file>WifiList.qml</file>
+        <file>WifiButton.qml</file>
+        <file>InformationDialog.qml</file>
+        <file>ApplicationDialog.qml</file>
+        <file>Keyboard.qml</file>
+        <file>MinimizedImage.qml</file>
+        <file>SettingsButton.qml</file>
+    </qresource>
+</RCC>
