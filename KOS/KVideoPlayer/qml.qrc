@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PlayerControls.qml</file>
+        <file>Player.qml</file>
+        <file>Storage.qml</file>
+        <file>MyVideo.qml</file>
+        <file>Usb.qml</file>
+        <file>CustomPlaylist.qml</file>
+        <file>SubtitleItem.qml</file>
+        <file>SubtitleSettings.qml</file>
+        <file>SettingsButton.qml</file>
+        <file>ColorChooserDialog.qml</file>
+        <file>Codecs.qml</file>
+        <file>CodecsContent.qml</file>
+        <file>FileChooserDialog.qml</file>
+        <file>CoverImage.qml</file>
+    </qresource>
+</RCC>
