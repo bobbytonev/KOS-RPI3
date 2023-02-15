@@ -22,9 +22,9 @@ disable_overscan=1
 
 # How much memory in MB to assign to the GPU on Pi models having
 # 256, 512 or 1024 MB total memory
-gpu_mem_256=512
-gpu_mem_512=512
-gpu_mem_1024=512
+gpu_mem_256=256
+gpu_mem_512=256
+gpu_mem_1024=256
 
 # fixes rpi (3B, 3B+, 3A+, 4B and Zero W) ttyAMA0 serial console
 #dtoverlay=miniuart-bt
